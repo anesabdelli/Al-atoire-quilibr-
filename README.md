@@ -21,8 +21,8 @@ AléatoireÉquilibré est un projet qui explore la génération de nombres aléa
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votreutilisateur/aleatoireequilibre.git
-   cd aleatoireequilibre
+   git clone https://github.com/anesabdelli/BalancedRandom.git
+   cd BalancedRandom
    ```
 2. Compilez le serveur et le client :
    ```bash
